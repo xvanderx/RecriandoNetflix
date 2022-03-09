@@ -1,2 +1,2 @@
-# RecriandoNetflix
-Um site baseado na netflix mas de jogos historicos de futebo.
+# projetointer-netf
+Projeto de recrição de interface da Netflix.
